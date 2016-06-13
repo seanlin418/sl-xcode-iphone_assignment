@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         print("This is some modification")
         print("Merged from branch")
         print("aaa")
+        print("This is changes from other other computers.")
     }
 
     override func didReceiveMemoryWarning() {
